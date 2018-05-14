@@ -1,5 +1,10 @@
-# presentations
+# Presentations
+
 Starting to put SecarmaLabs presentations someplace centrally. 
+
+To never miss a new one follow us on Twitter: https://twitter.com/SecarmaLabs
+To find more information check our blog: https://blog.secarma.co.uk/labs
+Our open source tools are available here: https://github.com/SecarmaLabs (but you could probably guess that if you are here!)
 
 # A Bit about DDE
 
