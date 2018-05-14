@@ -15,7 +15,7 @@ https://github.com/SecarmaLabs/presentations/blob/master/A_bit_about_DDE.pdf
 
 # Hacking with Git
 
-A talk given at BSides Scotland in April 2017. A video for the talk is available here:
+A talk given at BSides Scotland in April 2018. A video for the talk is available here:
 
 https://www.youtube.com/watch?v=uolyWLeKqOc
 
